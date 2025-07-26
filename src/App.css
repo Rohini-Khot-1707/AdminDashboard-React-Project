@@ -1,0 +1,31 @@
+body{
+  background-color: rgb(224, 224, 224) !important;
+}
+.sidebar {
+  position: fixed;
+  top: 12% !important;
+  left: 1.4%;
+  width: 18%;
+  height: 84vh;
+  background-color: #343a40;
+  z-index: 1000;
+  overflow-y: auto;
+}
+
+.main-content {
+  margin-left: 21.3%;
+  margin-top: 100px; 
+  width: 78%;
+  height: 100vh;
+}
+
+.navbar2 {
+  position: absolute;
+  top: 82px;
+  left: 20%;
+  width: 80%;
+  z-index: 999;
+  border-radius: 0;
+}
+
+

@@ -1,0 +1,29 @@
+.sidebar {
+ 
+  border-radius: 25px;
+ 
+}
+
+
+.nav-link {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 1rem;
+  transition: 0.2s;
+  cursor: pointer;
+}
+
+.nav-link:hover,
+.nav-link[aria-expanded="true"] {
+  color: #ff4c61;
+}
+
+.collapse ul li:hover {
+  color: #ffb3c1;
+}
+
+@media (max-width: 768px) {
+  .med {
+    flex-direction: column;
+  }
+}
+

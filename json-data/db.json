@@ -1,0 +1,117 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "Smart City Map",
+      "category": "Technology",
+      "leader": {
+        "name": "Ava",
+        "emoji": "👩‍💻"
+      },
+      "dateStart": "2024-01-01",
+      "deadline": "2024-03-31",
+      "stage": {
+        "label": "In Progress",
+        "color": "warning"
+      },
+      "completion": 70
+    },
+    {
+      "id": "2",
+      "title": "Patient Care App",
+      "category": "Healthcare",
+      "leader": {
+        "name": "Ben",
+        "emoji": "🧑‍⚕️"
+      },
+      "dateStart": "2024-02-01",
+      "deadline": "2024-04-30",
+      "stage": {
+        "label": "Planning",
+        "color": "info"
+      },
+      "completion": 40
+    },
+    {
+      "title": "helth care",
+      "category": "Healthcare",
+      "leader": {
+        "name": "rohini",
+        "emoji": "👲"
+      },
+      "dateStart": "",
+      "deadline": "2024-03-31",
+      "stage": {
+        "label": "New",
+        "color": "secondary"
+      },
+      "completion": 6,
+      "id": "cc86"
+    },
+    {
+      "id": "f181",
+      "title": "child education",
+      "category": "Education",
+      "leader": {
+        "name": "Rohini",
+        "emoji": "👩‍🎓"
+      },
+      "dateStart": "",
+      "deadline": "2024-04-30",
+      "stage": {
+        "label": "New",
+        "color": "secondary"
+      },
+      "completion": 0
+    },
+    {
+      "id": "9d74",
+      "title": "hotel management system",
+      "category": "Technology",
+      "leader": {
+        "name": "Ranjeet",
+        "emoji": "👲"
+      },
+      "dateStart": "",
+      "deadline": "2024-03-31",
+      "stage": {
+        "label": "New",
+        "color": "secondary"
+      },
+      "completion": 0
+    },
+    {
+      "id": "0089",
+      "title": "child care",
+      "category": "Healthcare",
+      "leader": {
+        "name": "Rohini",
+        "emoji": "👲"
+      },
+      "dateStart": "",
+      "deadline": "2024-03-31",
+      "stage": {
+        "label": "New",
+        "color": "secondary"
+      },
+      "completion": 0
+    }
+  ],
+  "employees": [
+    {
+      "id": "1",
+      "name": "Rohini Khot",
+      "role": "Frontend Developer"
+    },
+    {
+      "id": "2",
+      "name": "Ranjeet Khot",
+      "role": "Backend Developer"
+    },
+    {
+      "id": "460c",
+      "name": "Vaishnavi Mane",
+      "role": "Manager"
+    }
+  ]
+}
