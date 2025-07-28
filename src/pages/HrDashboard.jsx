@@ -129,6 +129,5 @@ const HrDashboard = () => {
   );
 };
 
-
-
 export default HrDashboard;
+

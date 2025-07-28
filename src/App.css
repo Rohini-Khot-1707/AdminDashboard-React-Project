@@ -1,7 +1,7 @@
 body{
   background-color: rgb(224, 224, 224) !important;
 }
-.sidebar {
+ .sidebar {
   position: fixed;
   top: 12% !important;
   left: 1.4%;
@@ -10,7 +10,7 @@ body{
   background-color: #343a40;
   z-index: 1000;
   overflow-y: auto;
-}
+} 
 
 .main-content {
   margin-left: 21.3%;
@@ -28,4 +28,29 @@ body{
   border-radius: 0;
 }
 
+/* chatgpt */
+ /* .navbar2 {
+  position:absolute;
+  top: 60px; 
+  left: 0;
+  right: 0;
+  z-index: 1049; 
+  background-color: white;
+  border-bottom: 1px solid #eee;
+} */
 
+
+@media (max-width: 768px) {
+  .navbar2 .input-group {
+    width: 100% !important;
+  }
+
+  .navbar2 .d-flex.align-items-center.gap-3 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .navbar2 img {
+    margin-top: 5px;
+  }
+}
