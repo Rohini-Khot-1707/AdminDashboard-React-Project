@@ -6,8 +6,8 @@ const Navbar = () => {
             <nav className="navbar navi w-100 navbar-expand-lg navbar-light bg-dark p-3 fixed-top">
                 <div className="container-fluid d-flex justify-content-between">
                     <div className='d-flex flex-row align-items-center'>
-                        <img src='images/adminlogo.jpg' className='img-fluid mx-2' style={{ height: "30px" }}></img>
-                        <p className='text-light fs-5 m-0'>Admin<strong className='text-warning'>Dashboard</strong></p>
+                        <img src='images/logo1.png' className='img-fluid mx-2' style={{ height: "30px" }}></img>
+                        <p className='text-light fs-5 m-0'>Staff<strong className='text-warning'>Sync</strong></p>
                     </div>
 
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">

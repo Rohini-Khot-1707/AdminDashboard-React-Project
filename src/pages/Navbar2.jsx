@@ -32,7 +32,7 @@ const Navbar2 = () => {
                     </div>
 
                     <img
-                        src="/images/girl-profile.png"
+                        src="/images/image.png"
                         alt="profile"
                         className="rounded-circle dnone"
                         width="40"
